@@ -1,0 +1,232 @@
+.container {
+    height: 600px;
+    margin-top: 30px;
+    left: 31px;
+    top: 141px;
+    background: #CFCFCF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.card-left-post-registration {
+    width: 320px;
+    height: 555px;
+    margin-top: 25px;
+    margin-left: 100px;
+    margin-right: 0px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+    border-radius: 25px;
+}
+
+.card-img-post-registration {
+    box-sizing: border-box;
+    margin-left: 85px;
+    margin-top: 30px;
+    width: 140px;
+    height: 140px;
+    border: 2px solid #000000;
+    border-radius: 100px;
+}
+
+.card-title-name-post-registration {
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #000000;
+}
+
+.card-text-email-post-registration {
+    height: 39px;
+    font-family: 'Roboto';
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #000000;
+}
+
+.card-title-work-post-registration {
+    height: 29px;
+    font-family: 'Roboto';
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.01em;
+    color: #000000;
+    font-weight: bold;
+}
+
+.control-registration-work {
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    width: 278px;
+    height: 34px;
+    left: 16px;
+    top: 391px;
+    background: #EEEEEE;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.01em;
+}
+
+.control-registration-especialist {
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    width: 278px;
+    height: 34px;
+    left: 16px;
+    top: 391px;
+    background: #EEEEEE;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.01em;
+}
+
+.control-registration-advice {
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    width: 278px;
+    height: 34px;
+    left: 16px;
+    top: 391px;
+    background: #EEEEEE;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.01em;
+}
+
+.col-dados-post-registration {
+    width: 275px;
+    height: 40px;
+    padding-left: 90px;
+    margin-top: 25px;
+    background: #EEEEEE;
+    border-radius: 25px 25px 0px 0px;
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 26px;
+    align-items: center;
+    letter-spacing: 0.01em;
+    color: #220F1A;
+
+}
+
+.col-post-registration {
+    border-radius: 25px 25px 0px;
+    background: #515151;
+    width: 275px;
+    height: 40px;
+    padding-left: 53px;
+    margin-top: 25px;
+    margin-right: 40px;
+    border-radius: 25px 25px 0px 0px;
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 26px;
+    align-items: center;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+}
+
+.form-data-post-registration {
+    width: 550px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    margin-left: -15px;
+    margin-right: 0px;
+}
+
+.card-title-person-post-registration {
+    padding-top: 10px;
+    margin-top: 0px;
+    padding-left: 20px;
+    height: 29px;
+    font-family: 'Roboto';
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.01em;
+    color: #000000;
+    font-weight: bold;
+}
+
+.control-registration-person {
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    margin-top: 5px;
+    margin-left: 20px;
+    width: 278px;
+    height: 34px;
+    background: #EEEEEE;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.01em;
+}
+
+.control-registration-email {
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    margin-left: 20px;
+    width: 278px;
+    height: 34px;
+    background: #EEEEEE;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.01em;
+}
+
+.control-registration-options-1 {
+    color: #000000;
+    box-sizing: border-box;
+    margin-left: 20px;
+    width: 450px;
+    height: 30px;
+    left: 23px;
+    top: 593px;
+    background: #EEEEEE;
+    border: 1px solid #0F3F72;
+    border-radius: 10px;
+}
+
+.control-registration-options-2 {
+    color: #000000;
+    box-sizing: border-box;
+    margin-left: 20px;
+    width: 450px;
+    height: 30px;
+    left: 23px;
+    top: 593px;
+    background: #EEEEEE;
+    border: 1px solid #0F3F72;
+    border-radius: 10px;
+}
+
+.control-registration-options-3 {
+    box-sizing: border-box;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    width: 450px;
+    height: 30px;
+    left: 23px;
+    top: 593px;
+    background: #EEEEEE;
+    border: 1px solid #0F3F72;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
