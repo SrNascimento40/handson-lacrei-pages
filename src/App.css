@@ -1,0 +1,175 @@
+* {
+  margin:0 auto;
+  padding:0 auto;
+}
+
+.central1 {
+  width:80%;
+  display: flex;
+  justify-content: space-between;
+ flex-wrap: wrap;
+}
+.card-1{
+  width:400px;
+  height:600px
+}
+.card-2{
+  width:600px;
+  height:600px;
+}
+.titulo-1 {
+  padding-top: 10px;
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 100%;
+background: white;
+height: 50px;
+}
+.modalidade {
+  margin:0px 10px 0px 0px ;
+  width: 284px;
+  height: 125px;
+  border: 1px solid red;
+  border-radius: 8px;
+  background: #DCDCDC;
+  display:flex;
+  align-items: center;
+}
+.p {
+  padding-left: 10px;
+}
+.contato {
+  width:600px;
+  background: #DCDCDC;
+  margin:10px 10px 0px 0px ;
+  padding:20px 0px 20px 0px ;
+border: 1px solid #C8E0FA;
+border-radius: 8px;
+display:flex;
+justify-content: space-around;
+  align-items: center;
+}
+.input1 {
+  margin:0px 10px 10px 10px ;
+  border-radius: 8px;
+  border: 2px solid #C8E0FA;
+  height:25px;
+}
+.central2 {
+  width:80%;
+  height:auto;
+  display: flex;
+  flex-wrap: wrap;
+ justify-content: center;
+}
+.card-3 {
+width:500px;
+background: #DCDCDC;
+display:block;
+text-align: center;
+}
+
+.card-4 {
+  width:500px;
+  height:auto;
+  background: #DCDCDC;
+  display:block;
+  text-align: center;
+}
+.card-5 {
+  width: 480px;
+  height: auto;
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  text-align: center;
+  padding-top: 15px;
+}
+ 
+.input2{
+  padding-left: 15px;
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+}
+.input3 {
+  color:#1C1C1C;
+  font-weight: 200;
+  font-size: 14px;
+}
+.bike {
+  padding-right: 50px;
+  padding-top: 5px;
+}
+
+.bike2 {
+  padding-right: 40px;
+  padding-top: 6px;
+}
+.atendimentos {
+  background: #DCDCDC;
+  display:flex;
+  justify-content: center;
+}
+.atendimentos1 {
+  background: #DCDCDC;
+  display:block;
+  text-align: center;
+}
+.dias {
+  display:block;
+  text-align: center;
+  
+}
+.botao {
+  border:1px solid green;
+  width:30px;
+  height:30px;
+  margin-left:4px;
+
+}
+.botao:hover {
+  background:green;
+  color:white;
+}
+.red {
+  color:red;
+  font-size:12px;
+}
+.hora {
+  text-align: center;
+  width:52px;
+  height:34px;
+}
+.horario {
+  width: 300px;
+  display: flex;
+  justify-content: center;
+}
+.img {
+  width:380px;
+  height:auto;
+}
+.img1 {
+  width:100%;
+}
+.titulo-consultorio {
+  color: #C75126;
+}
+.botao3 {
+  width:100px;
+  height:40px;
+  border:2px solid green;
+  border-radius: 8px;
+  background:green;
+  color:white;
+  margin-bottom: 15px;
+
+}
+.botao3:hover {
+  color:green;
+  background:white;
+}
